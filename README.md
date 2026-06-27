@@ -47,5 +47,6 @@ group by Overtime ;
 select avg(YearsAtCompany) from `hr_analytics (1)`;
 
 
+<img width="1124" height="609" alt="HR_Analytics (1)_dashboard" src="https://github.com/user-attachments/assets/1e69a73e-824a-4099-b937-be67b8184b5f" />
 
 
